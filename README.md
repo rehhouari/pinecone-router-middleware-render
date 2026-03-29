@@ -1,4 +1,7 @@
+> # Abandoned.
+
 # Display Server-Rendered Pages with Pinecone Router
+
 
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/pinecone-router/middleware-render?color=%2337C8AB&label=version&sort=semver)](https://github.com/pinecone-router/middleware-render/tree/0.0.3)
 [![npm bundle size](https://img.shields.io/bundlephobia/minzip/pinecone-router-middleware-render?color=37C8AB)](https://bundlephobia.com/result?p=pinecone-router-middleware-render@0.0.3)
@@ -9,7 +12,6 @@
 
 A middleware for [Pinecone Router](https://github.com/pinecone-router/router) that add Turbolinks-like functionality with extra features.
 
-> # Warning: not working currently, will work on it asap, just don't have time
 
 ## About
 
